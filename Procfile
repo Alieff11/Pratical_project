@@ -1,0 +1,1 @@
+web:gunicorn pratical_project.wsgi --log-file-
